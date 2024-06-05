@@ -31,6 +31,7 @@ List of resources and projects for operating system development.
 - 😀 [Lemon OS](https://github.com/LemonOSProject/LemonOS) - Lemon OS is a UNIX-like 64-bit operating system written in C++.
 - 🙂 [Skylight](https://github.com/austanss/skylight) - A clean, well-written minimalist operating system designed to be used as an educational material for operating system development.
 - 😀 [SnowflakeOS](https://github.com/29jm/SnowflakeOS) - "It is very special"
+- 😀 [KiddieOS_Development](https://github.com/FrancisBFTC/KiddieOS_Development) - UNIX-like 64-bit operating system written in Assembly, C++.
 
 ### Libraries
 - 😀 [ACPICA](https://acpica.org) - A reference ACPI library for operating systems.
